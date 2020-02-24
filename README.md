@@ -234,8 +234,11 @@
 ### mentions:
   - https://github.com/zurb/tribute
 
-### fun
+### terminal fun
   - https://github.com/iptv-org/iptv
+  - https://github.com/abishekvashok/cmatrix
+  - https://github.com/busyloop/lolcat
+  - http://www.figlet.org/
 
 ### highlight:
   - https://markjs.io/
