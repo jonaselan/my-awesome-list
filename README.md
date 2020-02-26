@@ -207,6 +207,7 @@
 
 ### docker
   - https://kitematic.com/
+  - https://github.com/Gueils/whales
 
 ### money
   - https://github.com/xxczaki/cashify
