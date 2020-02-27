@@ -38,16 +38,16 @@
   - https://caddyserver.com/
   - https://letsencrypt.org/
 
-### alerts:
+### Alerts
   - https://github.com/sweetalert2/sweetalert2
   - https://github.com/notiflix/Notiflix
   - https://github.com/needim/noty
   - https://github.com/CodeSeven/toastr
 
-### zendesk
+### Customer service
   - https://www.chatwoot.com/
 
-### clipboard
+### Clipboard
   - https://clipboardjs.com
 
 ### IDE online
@@ -58,77 +58,77 @@
   - https://github.com/GoogleChromeLabs/squoosh/
   - https://www.remove.bg/
 
-### screenshot
+### Screenshot
   - https://html2canvas.hertzen.com/
 
-### zoom
+### Zoom
   - https://github.com/kingdido999/zooming
 
-### animation css/3d
+### Animation css/3d
   - https://zzz.dog/
   - https://animista.net/
   - https://cesiumjs.org/
   - https://daneden.github.io/animate.css/
 
-### loading
+### Loading
   - https://loading.io/
   - https://tobiasahlin.com/spinkit/
 
-### date/time
+### Date/time
   - https://momentjs.com/
   - https://github.com/date-fns/date-fns
 
-### image lazy loading
+### Image lazy loading
   - https://github.com/verlok/lazyload
 
-### charts
+### Charts
   - https://github.com/mermaid-js/mermaid
   - https://chartkick.com/
 
-### generate image code:
+### Generate image code
   - https://github.com/carbon-app/carbon
   - https://github.com/octref/polacode
   - https://github.com/faressoft/terminalizerte
 
-### editorOnline
+### Editor online
   - https://github.com/codesandbox/codesandbox-client
   - https://www.gitpod.io/
 
-### geoip
+### Geoip
   - https://www.maxmind.com/
 
-### parallax effect
+### Parallax effect
   - https://simpleparallax.com/
 
-### onboarding
+### Onboarding
   - https://github.com/usablica/intro.js
   - https://github.com/kamranahmedse/driver.js
 
-### table
+### Table
   - http://tabulator.info/
   - https://datatables.net/
 
-### firewall
+### Firewall
   - fail2ban
   - ufw
 
-### hover
+### Hover
   - https://github.com/IanLunn/Hover#a-copy-and-paste-an-effect
 
-### layout full page
+### Layout full page
   - https://alvarotrigo.com/fullPage/#page1
 
-### file upload
+### File upload
   - https://uppy.io/
   - https://github.com/pqina/filepond
   - https://www.dropzonejs.com
   - https://github.com/elninotech/uppload
 
-### video players
+### Video players
   - https://github.com/videojs/video.js
   - https://plyr.io/
 
-### dashboard
+### Dashboard
   - https://github.com/0wczar/airframe-react
   - https://github.com/tabler/tabler
 
@@ -136,7 +136,7 @@
   - pexels
   - https://unsplash.com/
 
-### icon:
+### Icon
   - https://konpa.github.io/devicon/
   - https://fontkiko.com/
   - https://drive.google.com/open?id=1m0HvmfHen-kMQiAe7Z4GMppIGKs1NSgq
@@ -146,22 +146,19 @@
 ### head hide
   - https://github.com/WickyNilliams/headroom.js
 
-### ui expiration
+### Ui expiration
   - https://land-book.com/
 
-### illustrations
+### Illustrations
   - undraw | https://www.opendoodles.com/ | https://icons8.com/
 
-### font de dados
-  - https://illustrated.dev/
-
-### flexbox
+### Flexbox
   - https://github.com/kristoferjoseph/flexboxgrid
 
-### create sites
+### Create sites
   - https://gohugo.io/
 
-### wiki/doc:
+### Wiki/doc
   - https://www.getoutline.com/
   - https://www.getoutline.com/
   - https://www.docz.site/
@@ -170,49 +167,49 @@
   - https://github.com/Requarks/wiki
   - https://docusaurus.io/
 
-### keybinding
+### Keybinding
   - https://github.com/piranha/keymage
   - https://github.com/ccampbell/mousetrap
   - https://github.com/tj/commander.js
 
-### scroll
+### Scroll
   - https://github.com/janpaepke/ScrollMagic
   - https://github.com/russellgoldenberg/scrollama
   - https://github.com/matthieua/WOW
   - https://github.com/terwanerik/ScrollTrigger
 
-### drag-and-drop
+### Drag-and-drop
   - https://github.com/valor-software/ng2-dragula
   - https://interactjs.io/
   - https://daybrush.com/moveable/
   - http://sortablejs.github.io/Sortable/
 
-### powerpoint/apresentation
+### Powerpoint/apresentation
   - https://github.com/impress/impress.js
   - https://revealjs.com/#/
   - https://github.com/pomber/code-surfer
 
-### slides/carrousel
+### Slides/carrousel
   - https://github.com/nolimits4web/swiper
   - https://naver.github.io/egjs-flicking/
 
-### timezone
+### Timezone
   -http://spacetime.how/
 
-### minimap
+### Minimap
   - https://github.com/lrsjng/pagemap
 
-### normalize
+### Normalize
   - https://github.com/necolas/normalize.css
 
-### docker
+### Docker
   - https://kitematic.com/
   - https://github.com/Gueils/whales
 
-### money
+### Money
   - https://github.com/xxczaki/cashify
 
-### databases:
+### Databases
   - https://github.com/rethinkdb/rethinkdb
   - https://github.com/agershun/alasql
   - https://github.com/localForage/localForage
@@ -220,11 +217,11 @@
   - https://pouchdb.com/
   - https://github.com/arangodb/arangodb
 
-### bagdet
+### Bagdet
   - https://shields.io/
   - https://github.com/dennis47528/console-badge
 
-### CEP:
+### Zipcode (CEP)
   - https://github.com/otaviopace/cep-callback
   - https://github.com/filipedeschamps/cep-promise
 
@@ -232,28 +229,29 @@
   - https://github.com/jwagner/smartcrop.js
   - https://github.com/fengyuanchen/cropperjs
 
-### mentions:
+### Mentions
   - https://github.com/zurb/tribute
 
-### terminal fun
+### Terminal fun
   - https://github.com/iptv-org/iptv
   - https://github.com/abishekvashok/cmatrix
   - https://github.com/busyloop/lolcat
   - http://www.figlet.org/
 
-### highlight:
+### Highlight
   - https://markjs.io/
 
-### diff:
+### Diffs
   - https://github.com/google/diff-match-patch
   - https://github.com/isaacs/diff-frag
 
-### sites interessantes
+### Interesting sites
   - http://bruno-simon.com/
   - https://free-for.dev/#/
   - https://userinyerface.com/
+  - https://illustrated.dev/
 
-### apresentation aux:
+### Apresentation aux
   - https://github.com/brunosimon/keppler
 
 
