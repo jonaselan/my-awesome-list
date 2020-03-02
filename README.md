@@ -34,9 +34,12 @@
 
 ## Thirdies tools
 
-### https
+### Https
   - https://caddyserver.com/
   - https://letsencrypt.org/
+
+### Search
+  - https://github.com/farzher/fuzzysort
 
 ### Alerts
   - https://github.com/sweetalert2/sweetalert2
@@ -49,6 +52,7 @@
 
 ### Clipboard
   - https://clipboardjs.com
+  - https://github.com/sindresorhus/clipboardy
 
 ### IDE online
   - https://codesandbox.io/
@@ -139,6 +143,7 @@
 ### Icon
   - https://konpa.github.io/devicon/
   - https://fontkiko.com/
+  - https://css.gg/
   - https://drive.google.com/open?id=1m0HvmfHen-kMQiAe7Z4GMppIGKs1NSgq
   - https://iconmonstr.com/
   - https://coreui.io/
