@@ -20,6 +20,7 @@
 
 ### Javascript
   - https://github.com/metafizzy
+  - https://github.com/oldboyxx/jira_clone
 
 ### Rails
   - https://github.com/madeindjs/api_on_rails
@@ -163,6 +164,9 @@
 ### Create sites
   - https://gohugo.io/
 
+### Autocomplete
+  - https://github.com/algolia/autocomplete.js
+
 ### Wiki/doc
   - https://www.getoutline.com/
   - https://www.getoutline.com/
@@ -197,6 +201,9 @@
 ### Slides/carrousel
   - https://github.com/nolimits4web/swiper
   - https://naver.github.io/egjs-flicking/
+
+### Masks
+  - https://github.com/autoNumeric/autoNumeric
 
 ### Timezone
   -http://spacetime.how/
@@ -258,5 +265,3 @@
 
 ### Apresentation aux
   - https://github.com/brunosimon/keppler
-
-
