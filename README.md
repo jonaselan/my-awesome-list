@@ -148,6 +148,7 @@
   - https://drive.google.com/open?id=1m0HvmfHen-kMQiAe7Z4GMppIGKs1NSgq
   - https://iconmonstr.com/
   - https://coreui.io/
+  - https://github.com/tabler/tabler-icons
 
 ### head hide
   - https://github.com/WickyNilliams/headroom.js
@@ -206,7 +207,10 @@
   - https://github.com/autoNumeric/autoNumeric
 
 ### Timezone
-  -http://spacetime.how/
+  - http://spacetime.how/
+
+### Notification
+  - https://pushjs.org/#
 
 ### Minimap
   - https://github.com/lrsjng/pagemap
@@ -236,6 +240,7 @@
 ### Zipcode (CEP)
   - https://github.com/otaviopace/cep-callback
   - https://github.com/filipedeschamps/cep-promise
+  - https://github.com/filipedeschamps/BrasilAPI
 
 ### Crop image
   - https://github.com/jwagner/smartcrop.js
