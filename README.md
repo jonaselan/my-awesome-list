@@ -164,9 +164,17 @@
 
 ### Create sites
   - https://gohugo.io/
+  - https://github.com/jekyll/jekyll
+
+### Toogle css
+  - https://github.com/JNKKKK/MoreToggles.css
 
 ### Autocomplete
   - https://github.com/algolia/autocomplete.js
+
+### Search Engine
+  - https://github.com/elastic/elasticsearch
+  - https://github.com/meilisearch/MeiliSearch
 
 ### Wiki/doc
   - https://www.getoutline.com/
