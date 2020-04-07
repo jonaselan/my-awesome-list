@@ -1,5 +1,7 @@
 # My Awesome List
 
+Most items on this list are for javascript
+
 ## My projects
 
   - https://github.com/jonaselan/laravel-best-practices
@@ -102,6 +104,9 @@
   - https://animista.net/
   - https://cesiumjs.org/
   - https://daneden.github.io/animate.css/
+
+### Panoroma
+  - https://github.com/pchen66/panolens.js
 
 ### Loading
   - https://loading.io/
@@ -297,6 +302,7 @@
 ### Diffs
   - https://github.com/google/diff-match-patch
   - https://github.com/isaacs/diff-frag
+  - https://github.com/taylorhakes/variable-diff
 
 ### Interesting sites
   - http://bruno-simon.com/
