@@ -273,6 +273,7 @@ Most items on this list are for javascript
   - http://taffydb.com/
   - https://pouchdb.com/
   - https://github.com/arangodb/arangodb
+  - https://github.com/typicode/lowdb
 
 ### Bagdet
   - https://shields.io/
@@ -295,6 +296,7 @@ Most items on this list are for javascript
   - https://github.com/abishekvashok/cmatrix
   - https://github.com/busyloop/lolcat
   - http://www.figlet.org/
+  - https://github.com/pipeseroni/pipes.sh
 
 ### Highlight
   - https://markjs.io/
@@ -303,6 +305,7 @@ Most items on this list are for javascript
   - https://github.com/google/diff-match-patch
   - https://github.com/isaacs/diff-frag
   - https://github.com/taylorhakes/variable-diff
+  - https://github.com/jlevy/pdiffjson
 
 ### Interesting sites
   - http://bruno-simon.com/
