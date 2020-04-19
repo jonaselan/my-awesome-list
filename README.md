@@ -18,14 +18,16 @@ Most items on this list are for javascript
   - https://www.cdevn.com/
   - https://www.igvita.com/
 
-## Alternative to
+## Alternative to (most Open source)
 
 ### Slack
   - https://products.office.com/en-US/microsoft-teams/group-chat-software
   - https://rocket.chat/
   - https://mattermost.com/
   - https://zulipchat.com/
-  - discord
+
+### discord
+  - https://github.com/vector-im/riot-web
 
 ### Github
   - https://gogs.io/ 
