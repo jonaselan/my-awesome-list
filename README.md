@@ -210,6 +210,7 @@ Most items on this list are for javascript
 ### Search Engine
   - https://github.com/elastic/elasticsearch
   - https://github.com/meilisearch/MeiliSearch
+  - https://github.com/valeriansaliou/sonic
 
 ### Wiki/doc
   - https://www.getoutline.com/
