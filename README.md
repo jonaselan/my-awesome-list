@@ -26,7 +26,11 @@ Most items on this list are for javascript
   - https://mattermost.com/
   - https://zulipchat.com/
 
-### discord
+### Jira
+  - https://tara.ai/
+  - https://clubhouse.io/
+
+### Discord
   - https://github.com/vector-im/riot-web
 
 ### Github
@@ -124,6 +128,7 @@ Most items on this list are for javascript
 ### Charts
   - https://github.com/mermaid-js/mermaid
   - https://chartkick.com/
+  - https://github.com/leeoniya/uPlot
 
 ### Generate image code
   - https://github.com/carbon-app/carbon
@@ -300,6 +305,7 @@ Most items on this list are for javascript
   - https://github.com/busyloop/lolcat
   - http://www.figlet.org/
   - https://github.com/pipeseroni/pipes.sh
+  - https://github.com/dylanaraps/neofetch
 
 ### Highlight
   - https://markjs.io/
