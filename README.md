@@ -18,14 +18,20 @@ Most items on this list are for javascript
   - https://www.cdevn.com/
   - https://www.igvita.com/
 
-## Alternative to
+## Alternative to (most Open source)
 
 ### Slack
   - https://products.office.com/en-US/microsoft-teams/group-chat-software
   - https://rocket.chat/
   - https://mattermost.com/
   - https://zulipchat.com/
-  - discord
+
+### Jira
+  - https://tara.ai/
+  - https://clubhouse.io/
+
+### Discord
+  - https://github.com/vector-im/riot-web
 
 ### Github
   - https://gogs.io/ 
@@ -122,6 +128,7 @@ Most items on this list are for javascript
 ### Charts
   - https://github.com/mermaid-js/mermaid
   - https://chartkick.com/
+  - https://github.com/leeoniya/uPlot
 
 ### Generate image code
   - https://github.com/carbon-app/carbon
@@ -209,6 +216,7 @@ Most items on this list are for javascript
 ### Search Engine
   - https://github.com/elastic/elasticsearch
   - https://github.com/meilisearch/MeiliSearch
+  - https://github.com/valeriansaliou/sonic
 
 ### Wiki/doc
   - https://www.getoutline.com/
@@ -300,6 +308,7 @@ Most items on this list are for javascript
   - http://www.figlet.org/
   - https://github.com/pipeseroni/pipes.sh
   - https://github.com/thelinuxchoice/saycheese
+  - https://github.com/dylanaraps/neofetch
 
 ### Highlight
   - https://markjs.io/
