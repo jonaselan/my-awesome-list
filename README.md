@@ -180,6 +180,7 @@ Most items on this list are for javascript
 ### Free images
   - pexels
   - https://unsplash.com/
+  - https://uifaces.co/
 
 ### Icon
   - https://konpa.github.io/devicon/
