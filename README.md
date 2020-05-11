@@ -170,9 +170,10 @@ Most items on this list are for javascript
   - https://github.com/0wczar/airframe-react
   - https://github.com/tabler/tabler
 
-### Free images
+### Free images (design)
   - pexels
   - https://unsplash.com/
+  - https://blush.design/
 
 ### Icon
   - https://konpa.github.io/devicon/
@@ -240,9 +241,10 @@ Most items on this list are for javascript
   - https://revealjs.com/#/
   - https://github.com/pomber/code-surfer
 
-### Slides/carrousel
+### Slides/carrousel/gallery
   - https://github.com/nolimits4web/swiper
   - https://naver.github.io/egjs-flicking/
+  - https://github.com/dimsemenov/PhotoSwipe
 
 ### Masks
   - https://github.com/autoNumeric/autoNumeric
@@ -297,6 +299,7 @@ Most items on this list are for javascript
   - https://github.com/busyloop/lolcat
   - http://www.figlet.org/
   - https://github.com/pipeseroni/pipes.sh
+  - https://github.com/thelinuxchoice/saycheese
 
 ### Highlight
   - https://markjs.io/
