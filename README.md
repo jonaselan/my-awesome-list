@@ -177,10 +177,9 @@ Most items on this list are for javascript
   - https://github.com/0wczar/airframe-react
   - https://github.com/tabler/tabler
 
-### Free images (design)
+### Free images
   - pexels
   - https://unsplash.com/
-  - https://blush.design/
 
 ### Icon
   - https://konpa.github.io/devicon/
@@ -198,7 +197,10 @@ Most items on this list are for javascript
   - https://land-book.com/
 
 ### Illustrations
-  - undraw | https://www.opendoodles.com/ | https://icons8.com/
+  - undraw 
+  - https://www.opendoodles.com/ 
+  - https://icons8.com/
+  - https://blush.design/
 
 ### Flexbox
   - https://github.com/kristoferjoseph/flexboxgrid
