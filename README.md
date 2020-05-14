@@ -20,6 +20,15 @@ Most items on this list are for javascript
 
 ## Alternative to (most Open source)
 
+https://github.com/ianramzy/decentralized-video-chat
+
+###  Sendgrid, Mailgun...
+  - https://github.com/postalhq/postal
+
+### Ecommerce
+  - https://github.com/solidusio/solidus
+  - https://github.com/spree/spree
+
 ### Slack
   - https://products.office.com/en-US/microsoft-teams/group-chat-software
   - https://rocket.chat/
