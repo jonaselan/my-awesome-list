@@ -199,6 +199,7 @@ https://github.com/ianramzy/decentralized-video-chat
   - https://iconmonstr.com/
   - https://coreui.io/
   - https://github.com/tabler/tabler-icons
+  - https://icons8.com/icons
 
 ### head hide
   - https://github.com/WickyNilliams/headroom.js
@@ -296,6 +297,7 @@ https://github.com/ianramzy/decentralized-video-chat
   - https://pouchdb.com/
   - https://github.com/arangodb/arangodb
   - https://github.com/typicode/lowdb
+  - https://github.com/codenotary/immudb
 
 ### Bagdet
   - https://shields.io/
