@@ -20,6 +20,15 @@ Most items on this list are for javascript
 
 ## Alternative to (most Open source)
 
+https://github.com/ianramzy/decentralized-video-chat
+
+###  Sendgrid, Mailgun...
+  - https://github.com/postalhq/postal
+
+### Ecommerce
+  - https://github.com/solidusio/solidus
+  - https://github.com/spree/spree
+
 ### Slack
   - https://products.office.com/en-US/microsoft-teams/group-chat-software
   - https://rocket.chat/
@@ -192,6 +201,7 @@ Most items on this list are for javascript
   - https://iconmonstr.com/
   - https://coreui.io/
   - https://github.com/tabler/tabler-icons
+  - https://icons8.com/icons
 
 ### head hide
   - https://github.com/WickyNilliams/headroom.js
@@ -289,6 +299,7 @@ Most items on this list are for javascript
   - https://pouchdb.com/
   - https://github.com/arangodb/arangodb
   - https://github.com/typicode/lowdb
+  - https://github.com/codenotary/immudb
 
 ### Bagdet
   - https://shields.io/
