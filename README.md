@@ -158,7 +158,7 @@ Most items on this list are for javascript
   - ufw
 
 ### Hover
-  - https://github.com/IanLunn/Hover#a-copy-and-paste-an-effect
+  - https://github.com/IanLunn/Hover
 
 ### Layout full page
   - https://alvarotrigo.com/fullPage/#page1
@@ -172,13 +172,15 @@ Most items on this list are for javascript
 ### Video players
   - https://github.com/videojs/video.js
   - https://plyr.io/
+  - https://github.com/muxinc/player-chrome
 
 ### Dashboard
   - https://github.com/0wczar/airframe-react
   - https://github.com/tabler/tabler
 
 ### Free images
-  - pexels
+  - https://www.pexels.com/
+  - https://picsum.photos/
   - https://unsplash.com/
   - https://uifaces.co/
 
@@ -198,8 +200,9 @@ Most items on this list are for javascript
   - https://land-book.com/
 
 ### Illustrations
-  - undraw 
+  - https://undraw.co 
   - https://www.opendoodles.com/ 
+  - https://lottiefiles.com/
   - https://icons8.com/
   - https://blush.design/
 
@@ -222,7 +225,6 @@ Most items on this list are for javascript
   - https://github.com/valeriansaliou/sonic
 
 ### Wiki/doc
-  - https://www.getoutline.com/
   - https://www.getoutline.com/
   - https://www.docz.site/
   - https://www.notion.so
