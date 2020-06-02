@@ -20,7 +20,8 @@ Most items on this list are for javascript
 
 ## Alternative to (most Open source)
 
-https://github.com/ianramzy/decentralized-video-chat
+### Zoom
+  - https://github.com/ianramzy/decentralized-video-chat
 
 ###  Sendgrid, Mailgun...
   - https://github.com/postalhq/postal
@@ -28,6 +29,9 @@ https://github.com/ianramzy/decentralized-video-chat
 ### Ecommerce
   - https://github.com/solidusio/solidus
   - https://github.com/spree/spree
+
+### Figma
+  - https://github.com/ryansolid/solid
 
 ### Slack
   - https://products.office.com/en-US/microsoft-teams/group-chat-software
@@ -51,9 +55,10 @@ https://github.com/ianramzy/decentralized-video-chat
   - https://whereby.com/
 
 ### Google Analytics 
-  - Matomo
-  - Fathom analytics 
-  - Countly
+  - https://github.com/matomo-org/matomo
+  - https://github.com/usefathom/fathom
+  - https://github.com/Countly
+  - https://github.com/plausible-insights/plausible
 
 ### Amazon S3
   - MinIO
@@ -83,6 +88,9 @@ https://github.com/ianramzy/decentralized-video-chat
 ### Https
   - https://caddyserver.com/
   - https://letsencrypt.org/
+
+### Styling
+  - https://github.com/tachyons-css/tachyons
 
 ### Search
   - https://github.com/farzher/fuzzysort
