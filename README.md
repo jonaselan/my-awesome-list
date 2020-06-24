@@ -18,6 +18,15 @@ Most items on this list are for javascript
   - https://www.cdevn.com/
   - https://www.igvita.com/
 
+## Articles
+
+Articles the change my life as a developer
+
+- https://www.joelonsoftware.com/2000/08/09/the-joel-test-12-steps-to-better-code/
+- https://chris.beams.io/posts/git-commit/
+- https://medium.com/hackernoon/how-to-hire-the-best-developers-3ac0fa4e3f39
+- https://levelup.gitconnected.com/how-do-i-know-if-im-ready-to-be-an-engineering-leader-21bc93a3fb0e
+
 ## Alternative to (most Open source)
 
 https://github.com/ianramzy/decentralized-video-chat
@@ -43,16 +52,16 @@ https://github.com/ianramzy/decentralized-video-chat
   - https://github.com/vector-im/riot-web
 
 ### Github
-  - https://gogs.io/ 
+  - https://gogs.io/
   - Bitbucket, gitlab...
 
 ### Zoom
   - https://jitsi.org/
   - https://whereby.com/
 
-### Google Analytics 
+### Google Analytics
   - Matomo
-  - Fathom analytics 
+  - Fathom analytics
   - Countly
 
 ### Amazon S3
@@ -86,6 +95,7 @@ https://github.com/ianramzy/decentralized-video-chat
 
 ### Search
   - https://github.com/farzher/fuzzysort
+  - https://github.com/tinysearch/tinysearch
 
 ### Alerts
   - https://github.com/sweetalert2/sweetalert2
@@ -119,6 +129,7 @@ https://github.com/ianramzy/decentralized-video-chat
   - https://animista.net/
   - https://cesiumjs.org/
   - https://daneden.github.io/animate.css/
+  - https://github.com/abhiprojectz/motionia
 
 ### Panoroma
   - https://github.com/pchen66/panolens.js
@@ -210,8 +221,8 @@ https://github.com/ianramzy/decentralized-video-chat
   - https://land-book.com/
 
 ### Illustrations
-  - https://undraw.co 
-  - https://www.opendoodles.com/ 
+  - https://undraw.co
+  - https://www.opendoodles.com/
   - https://lottiefiles.com/
   - https://icons8.com/
   - https://blush.design/
@@ -241,11 +252,13 @@ https://github.com/ianramzy/decentralized-video-chat
   - https://github.com/Redocly/redoc
   - https://github.com/Requarks/wiki
   - https://docusaurus.io/
+  - https://github.com/docsifyjs/docsify
 
-### Keybinding
+### Keybinding/hotkey
   - https://github.com/piranha/keymage
   - https://github.com/ccampbell/mousetrap
   - https://github.com/tj/commander.js
+  - https://github.com/github/hotkey
 
 ### Scroll
   - https://github.com/janpaepke/ScrollMagic
@@ -300,6 +313,12 @@ https://github.com/ianramzy/decentralized-video-chat
   - https://github.com/arangodb/arangodb
   - https://github.com/typicode/lowdb
   - https://github.com/codenotary/immudb
+
+### Notes
+  - https://github.com/Zettlr/Zettlr
+  - https://github.com/BoostIO/Boostnote
+  - https://github.com/zadam/trilium
+  - https://github.com/notable/notable
 
 ### Bagdet
   - https://shields.io/
