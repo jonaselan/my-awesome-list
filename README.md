@@ -18,6 +18,10 @@ Most items on this list are for javascript
   - https://www.cdevn.com/
   - https://www.igvita.com/
 
+## Postmortems
+  - https://github.com/danluu/post-mortems
+  - https://github.com/grimm-co/NotQuite0DayFriday
+
 ## Articles
 
 Articles the change my life as a developer
