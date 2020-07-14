@@ -276,6 +276,7 @@ Articles the change my life as a developer
   - https://github.com/janpaepke/ScrollMagic
   - https://github.com/russellgoldenberg/scrollama
   - https://github.com/matthieua/WOW
+  - https://github.com/stipsan/scroll-into-view-if-needed
   - https://github.com/terwanerik/ScrollTrigger
 
 ### Drag-and-drop
@@ -311,6 +312,7 @@ Articles the change my life as a developer
 
 ### Docker
   - https://kitematic.com/
+  - https://github.com/jesseduffield/lazydocker
   - https://github.com/Gueils/whales
 
 ### Money
