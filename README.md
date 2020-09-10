@@ -18,6 +18,10 @@ Most items on this list are for javascript
   - https://www.cdevn.com/
   - https://www.igvita.com/
 
+## Postmortems
+  - https://github.com/danluu/post-mortems
+  - https://github.com/grimm-co/NotQuite0DayFriday
+
 ## Articles
 
 Articles the change my life as a developer
@@ -274,6 +278,7 @@ Articles the change my life as a developer
   - https://github.com/janpaepke/ScrollMagic
   - https://github.com/russellgoldenberg/scrollama
   - https://github.com/matthieua/WOW
+  - https://github.com/stipsan/scroll-into-view-if-needed
   - https://github.com/terwanerik/ScrollTrigger
 
 ### Drag-and-drop
@@ -309,6 +314,7 @@ Articles the change my life as a developer
 
 ### Docker
   - https://kitematic.com/
+  - https://github.com/jesseduffield/lazydocker
   - https://github.com/Gueils/whales
 
 ### Money
