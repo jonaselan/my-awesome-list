@@ -8,6 +8,7 @@ Most items on this list are for javascript
   - https://github.com/jonaselan/BNativus
   - https://github.com/jonaselan/setup-my-pc
   - https://github.com/jonaselan/new-feed-blogs
+  - https://github.com/jonaselan/voice-to-image
 
 ## Blogs
   - https://www.bricolage.io/blog/
@@ -22,9 +23,7 @@ Most items on this list are for javascript
   - https://github.com/danluu/post-mortems
   - https://github.com/grimm-co/NotQuite0DayFriday
 
-## Articles
-
-Articles the change my life as a developer
+## Articles (the change my life as a developer)
 
 - https://www.joelonsoftware.com/2000/08/09/the-joel-test-12-steps-to-better-code/
 - https://chris.beams.io/posts/git-commit/
@@ -124,10 +123,6 @@ Articles the change my life as a developer
   - https://clipboardjs.com
   - https://github.com/sindresorhus/clipboardy
 
-### IDE online
-  - https://codesandbox.io/
-  - https://www.gitpod.io/
-
 ### Manage images
   - https://github.com/GoogleChromeLabs/squoosh/
   - https://www.remove.bg/
@@ -172,6 +167,7 @@ Articles the change my life as a developer
 ### Editor online
   - https://github.com/codesandbox/codesandbox-client
   - https://www.gitpod.io/
+  - https://codesandbox.io/
 
 ### Geoip
   - https://www.maxmind.com/
