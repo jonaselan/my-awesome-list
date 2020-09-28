@@ -203,6 +203,7 @@ Most items on this list are for javascript
   - https://github.com/videojs/video.js
   - https://plyr.io/
   - https://github.com/muxinc/player-chrome
+  - https://github.com/vime-js/vime
 
 ### Dashboard
   - https://github.com/0wczar/airframe-react
