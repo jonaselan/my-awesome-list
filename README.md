@@ -73,6 +73,7 @@ Most items on this list are for javascript
   - https://github.com/usefathom/fathom
   - https://github.com/Countly
   - https://github.com/plausible-insights/plausible
+  - https://github.com/mikecao/umami
 
 ### Amazon S3
   - MinIO
@@ -123,9 +124,17 @@ Most items on this list are for javascript
   - https://clipboardjs.com
   - https://github.com/sindresorhus/clipboardy
 
+### Form
+  - https://github.com/ohmyform/ohmyform
+
+### Profane/insensitive
+- https://github.com/crowdsecurity/crowdsec
+- https://github.com/get-alex/alex
+
 ### Manage images
   - https://github.com/GoogleChromeLabs/squoosh/
   - https://www.remove.bg/
+  - https://github.com/woltapp/blurhash
 
 ### Screenshot
   - https://html2canvas.hertzen.com/
