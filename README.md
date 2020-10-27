@@ -31,6 +31,7 @@ Most items on this list are for javascript
 - https://levelup.gitconnected.com/how-do-i-know-if-im-ready-to-be-an-engineering-leader-21bc93a3fb0e
 - https://www.vinaysahni.com/best-practices-for-a-pragmatic-restful-api
 - https://iamdi.dev/22-things-you-should-give-up-if-you-want-to-be-a-successful-developer/
+- https://dephraiim.hashnode.dev/50-essential-tips-for-every-developer
 
 ## Alternative to (most Open source)
 
