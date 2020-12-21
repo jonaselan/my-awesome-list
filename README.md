@@ -32,6 +32,7 @@ Most items on this list are for javascript
 - https://www.vinaysahni.com/best-practices-for-a-pragmatic-restful-api
 - https://iamdi.dev/22-things-you-should-give-up-if-you-want-to-be-a-successful-developer/
 - https://dephraiim.hashnode.dev/50-essential-tips-for-every-developer
+- http://ergonomictrends.com/proper-ergonomic-typing-posture-at-computer/
 
 ## Alternative to (most Open source)
 
@@ -121,6 +122,8 @@ Most items on this list are for javascript
 ### Customer service
   - https://www.chatwoot.com/
 
+### Trash
+  - https://github.com/sindresorhus/trash
 ### Clipboard
   - https://clipboardjs.com
   - https://github.com/sindresorhus/clipboardy
@@ -142,6 +145,9 @@ Most items on this list are for javascript
 
 ### Zoom
   - https://github.com/kingdido999/zooming
+
+### Music/sound
+  - https://github.com/sonic-pi-net/sonic-pi
 
 ### Animation css/3d
   - https://zzz.dog/
@@ -287,6 +293,7 @@ Most items on this list are for javascript
   - https://github.com/matthieua/WOW
   - https://github.com/stipsan/scroll-into-view-if-needed
   - https://github.com/terwanerik/ScrollTrigger
+  - https://github.com/locomotivemtl/locomotive-scroll
 
 ### Drag-and-drop
   - https://github.com/valor-software/ng2-dragula
