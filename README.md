@@ -198,6 +198,7 @@ Most items on this list are for javascript
 ### Table
   - http://tabulator.info/
   - https://datatables.net/
+  - https://github.com/grid-js/gridjs
 
 ### Firewall
   - fail2ban
