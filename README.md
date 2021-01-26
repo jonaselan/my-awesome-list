@@ -134,6 +134,7 @@ Most items on this list are for javascript
 ### Profane/insensitive
 - https://github.com/crowdsecurity/crowdsec
 - https://github.com/get-alex/alex
+- http://www.purgomalum.com/
 
 ### Manage images
   - https://github.com/GoogleChromeLabs/squoosh/
