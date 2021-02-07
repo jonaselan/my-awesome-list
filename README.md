@@ -48,6 +48,7 @@ Most items on this list are for javascript
 
 ### Figma
   - https://github.com/ryansolid/solid
+  - https://github.com/penpot/penpot
 
 ### Slack
   - https://products.office.com/en-US/microsoft-teams/group-chat-software
@@ -124,9 +125,13 @@ Most items on this list are for javascript
 
 ### Trash
   - https://github.com/sindresorhus/trash
+
 ### Clipboard
   - https://clipboardjs.com
   - https://github.com/sindresorhus/clipboardy
+
+### Messaging
+https://github.com/berty/berty
 
 ### Form
   - https://github.com/ohmyform/ohmyform
