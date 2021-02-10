@@ -154,6 +154,9 @@ https://github.com/berty/berty
 
 ### Music/sound
   - https://github.com/sonic-pi-net/sonic-pi
+  
+### Debuger
+  - https://github.com/nguyenquangminh0711/ruby_jard (Ruby)
 
 ### Animation css/3d
   - https://zzz.dog/
