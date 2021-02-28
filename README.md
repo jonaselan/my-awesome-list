@@ -393,6 +393,7 @@ https://github.com/berty/berty
   - https://github.com/isaacs/diff-frag
   - https://github.com/taylorhakes/variable-diff
   - https://github.com/jlevy/pdiffjson
+  - https://github.com/trailofbits/graphtage
 
 ### Interesting sites
   - http://bruno-simon.com/
