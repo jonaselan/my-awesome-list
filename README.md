@@ -164,7 +164,16 @@ https://github.com/berty/berty
   - https://cesiumjs.org/
   - https://daneden.github.io/animate.css/
   - https://github.com/abhiprojectz/motionia
+  - https://github.com/thednp/kute.js
+  - https://threejs.org/
+  - https://animejs.com/
+  - https://github.com/mojs/mojs
+  - https://popmotion.io/
 
+### Audio
+  - https://wavesurfer-js.org/
+  - https://howlerjs.com/
+  
 ### Panoroma
   - https://github.com/pchen66/panolens.js
 
@@ -304,6 +313,7 @@ https://github.com/berty/berty
   - https://github.com/stipsan/scroll-into-view-if-needed
   - https://github.com/terwanerik/ScrollTrigger
   - https://github.com/locomotivemtl/locomotive-scroll
+  - https://github.com/jlmakes/scrollreveal
 
 ### Drag-and-drop
   - https://github.com/valor-software/ng2-dragula
