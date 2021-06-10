@@ -136,10 +136,11 @@ https://github.com/berty/berty
 ### Form
   - https://github.com/ohmyform/ohmyform
 
-### Profane/insensitive
+### Profane/insensitive/natural language
 - https://github.com/crowdsecurity/crowdsec
 - https://github.com/get-alex/alex
 - http://www.purgomalum.com/
+- https://github.com/PrithivirajDamodaran/Gramformer
 
 ### Manage images
   - https://github.com/GoogleChromeLabs/squoosh/
@@ -325,6 +326,7 @@ https://github.com/berty/berty
   - https://github.com/impress/impress.js
   - https://revealjs.com/#/
   - https://github.com/pomber/code-surfer
+  - https://github.com/d0c-s4vage/lookatme
 
 ### Slides/carrousel/gallery
   - https://github.com/nolimits4web/swiper
