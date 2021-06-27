@@ -83,6 +83,9 @@ Most items on this list are for javascript
   - Taiga
   - Kanboard
   - Cloudinary
+ 
+ ### Sony Vegas
+  - https://github.com/mltframework/shotcut
 
 ## Thirdies projects:
 
@@ -113,6 +116,7 @@ Most items on this list are for javascript
 ### Search
   - https://github.com/farzher/fuzzysort
   - https://github.com/tinysearch/tinysearch
+  - https://github.com/jameslittle230/stork
 
 ### Alerts
   - https://github.com/sweetalert2/sweetalert2
@@ -300,6 +304,7 @@ https://github.com/berty/berty
   - https://github.com/Requarks/wiki
   - https://docusaurus.io/
   - https://github.com/docsifyjs/docsify
+  - https://github.com/docuowl/docuowl
 
 ### Keybinding/hotkey
   - https://github.com/piranha/keymage
