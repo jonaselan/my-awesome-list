@@ -115,7 +115,6 @@ Most items on this list are for javascript
 
 ### Search
   - https://github.com/farzher/fuzzysort
-  - https://github.com/tinysearch/tinysearch
   - https://github.com/jameslittle230/stork
 
 ### Alerts
@@ -208,6 +207,9 @@ https://github.com/berty/berty
   - https://www.gitpod.io/
   - https://codesandbox.io/
 
+### Text editor
+  - https://github.com/tinymce/tinymce
+
 ### Geoip
   - https://www.maxmind.com/
 
@@ -295,6 +297,7 @@ https://github.com/berty/berty
   - https://github.com/elastic/elasticsearch
   - https://github.com/meilisearch/MeiliSearch
   - https://github.com/valeriansaliou/sonic
+  - https://github.com/tinysearch/tinysearch
 
 ### Wiki/doc
   - https://www.getoutline.com/
@@ -370,6 +373,7 @@ https://github.com/berty/berty
   - https://github.com/arangodb/arangodb
   - https://github.com/typicode/lowdb
   - https://github.com/codenotary/immudb
+  - https://github.com/questdb/questdb
 
 ### Notes
   - https://github.com/Zettlr/Zettlr
