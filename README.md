@@ -36,9 +36,6 @@ Most items on this list are for javascript
 
 ## Alternative to (most Open source)
 
-### Zoom
-  - https://github.com/ianramzy/decentralized-video-chat
-
 ###  Sendgrid, Mailgun...
   - https://github.com/postalhq/postal
 
@@ -67,9 +64,13 @@ Most items on this list are for javascript
   - https://gogs.io/
   - Bitbucket, gitlab...
 
+### Trello
+  - https://github.com/mattermost/focalboard
+
 ### Zoom
   - https://jitsi.org/
   - https://whereby.com/
+  - https://github.com/ianramzy/decentralized-video-chat
 
 ### Google Analytics
   - https://github.com/matomo-org/matomo
@@ -298,6 +299,7 @@ https://github.com/berty/berty
   - https://github.com/meilisearch/MeiliSearch
   - https://github.com/valeriansaliou/sonic
   - https://github.com/tinysearch/tinysearch
+  - https://github.com/gajus/liqe
 
 ### Wiki/doc
   - https://www.getoutline.com/
