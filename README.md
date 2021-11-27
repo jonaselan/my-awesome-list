@@ -42,6 +42,7 @@ Most items on this list are for javascript
 ### Ecommerce
   - https://github.com/solidusio/solidus
   - https://github.com/spree/spree
+  - https://github.com/medusajs/medusa
 
 ### Figma
   - https://github.com/ryansolid/solid
@@ -159,6 +160,7 @@ https://github.com/berty/berty
 
 ### Music/sound
   - https://github.com/sonic-pi-net/sonic-pi
+  - https://www.elementary.audio/
   
 ### Debuger
   - https://github.com/nguyenquangminh0711/ruby_jard (Ruby)
@@ -310,6 +312,7 @@ https://github.com/berty/berty
   - https://docusaurus.io/
   - https://github.com/docsifyjs/docsify
   - https://github.com/docuowl/docuowl
+  - https://github.com/umijs/dumi
 
 ### Keybinding/hotkey
   - https://github.com/piranha/keymage
