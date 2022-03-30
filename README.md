@@ -77,8 +77,8 @@ Most items on this list are for javascript
   - https://github.com/matomo-org/matomo
   - https://github.com/usefathom/fathom
   - https://github.com/Countly
-  - https://github.com/plausible-insights/plausible
   - https://github.com/mikecao/umami
+  - https://github.com/plausible/analytics
 
 ### Amazon S3
   - MinIO
@@ -420,6 +420,7 @@ https://github.com/berty/berty
   - https://github.com/taylorhakes/variable-diff
   - https://github.com/jlevy/pdiffjson
   - https://github.com/trailofbits/graphtage
+  - https://github.com/Wilfred/difftastic
 
 ### Interesting sites
   - http://bruno-simon.com/
