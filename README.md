@@ -136,16 +136,16 @@ Most items on this list are for javascript
   - https://github.com/sindresorhus/clipboardy
 
 ### Messaging
-https://github.com/berty/berty
+  - https://github.com/berty/berty
 
 ### Form
   - https://github.com/ohmyform/ohmyform
 
 ### Profane/insensitive/natural language
-- https://github.com/crowdsecurity/crowdsec
-- https://github.com/get-alex/alex
-- http://www.purgomalum.com/
-- https://github.com/PrithivirajDamodaran/Gramformer
+  - https://github.com/crowdsecurity/crowdsec
+  - https://github.com/get-alex/alex
+  - http://www.purgomalum.com/
+  - https://github.com/PrithivirajDamodaran/Gramformer
 
 ### Manage images
   - https://github.com/GoogleChromeLabs/squoosh/
@@ -154,6 +154,9 @@ https://github.com/berty/berty
 
 ### Screenshot
   - https://html2canvas.hertzen.com/
+ 
+### Authz
+  - https://github.com/NangoHQ/nango
 
 ### Zoom
   - https://github.com/kingdido999/zooming
@@ -328,6 +331,7 @@ https://github.com/berty/berty
   - https://github.com/terwanerik/ScrollTrigger
   - https://github.com/locomotivemtl/locomotive-scroll
   - https://github.com/jlmakes/scrollreveal
+  - https://github.com/studio-freight/lenis
 
 ### Drag-and-drop
   - https://github.com/valor-software/ng2-dragula
