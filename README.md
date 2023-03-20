@@ -157,6 +157,9 @@ Most items on this list are for javascript
  
 ### Authz
   - https://github.com/NangoHQ/nango
+  
+### Auth
+  - https://github.com/goauthentik/authentik
 
 ### Zoom
   - https://github.com/kingdido999/zooming
