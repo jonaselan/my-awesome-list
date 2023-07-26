@@ -43,6 +43,7 @@ Most items on this list are for javascript
   - https://github.com/solidusio/solidus
   - https://github.com/spree/spree
   - https://github.com/medusajs/medusa
+  - https://github.com/evershopcommerce/evershop
 
 ### Figma
   - https://github.com/ryansolid/solid
