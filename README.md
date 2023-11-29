@@ -58,6 +58,7 @@ Most items on this list are for javascript
 ### Jira
   - https://tara.ai/
   - https://clubhouse.io/
+  - https://github.com/makeplane/plane
 
 ### Discord
   - https://github.com/vector-im/riot-web
