@@ -221,6 +221,9 @@ Most items on this list are for javascript
 ### Text editor
   - https://github.com/tinymce/tinymce
 
+### Vote
+  - https://github.com/clickvote/clickvote
+
 ### Geoip
   - https://www.maxmind.com/
 
