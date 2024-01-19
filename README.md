@@ -23,16 +23,13 @@ Most items on this list are for javascript
   - https://github.com/danluu/post-mortems
   - https://github.com/grimm-co/NotQuite0DayFriday
 
-## Articles (the change my life as a developer)
+# Software by operational system
 
-- https://www.joelonsoftware.com/2000/08/09/the-joel-test-12-steps-to-better-code/
-- https://chris.beams.io/posts/git-commit/
-- https://medium.com/hackernoon/how-to-hire-the-best-developers-3ac0fa4e3f39
-- https://levelup.gitconnected.com/how-do-i-know-if-im-ready-to-be-an-engineering-leader-21bc93a3fb0e
-- https://www.vinaysahni.com/best-practices-for-a-pragmatic-restful-api
-- https://iamdi.dev/22-things-you-should-give-up-if-you-want-to-be-a-successful-developer/
-- https://dephraiim.hashnode.dev/50-essential-tips-for-every-developer
-- http://ergonomictrends.com/proper-ergonomic-typing-posture-at-computer/
+## Mac
+- 
+
+## Windows 
+- https://github.com/microsoft/PowerToys
 
 ## Alternative to (most Open source)
 
@@ -169,7 +166,13 @@ Most items on this list are for javascript
 ### Music/sound
   - https://github.com/sonic-pi-net/sonic-pi
   - https://www.elementary.audio/
-  
+
+### Feature flag
+  - https://github.com/flippercloud/flipper
+  - https://posthog.com/feature-flags
+  - https://launchdarkly.com/
+  - https://github.com/Unleash/unleash
+
 ### Debuger
   - https://github.com/nguyenquangminh0711/ruby_jard (Ruby)
 
