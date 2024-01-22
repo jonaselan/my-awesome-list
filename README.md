@@ -1,16 +1,6 @@
 # My Awesome List
 
-Most items on this list are for javascript
-
-## My projects
-
-  - https://github.com/jonaselan/laravel-best-practices
-  - https://github.com/jonaselan/BNativus
-  - https://github.com/jonaselan/setup-my-pc
-  - https://github.com/jonaselan/new-feed-blogs
-  - https://github.com/jonaselan/voice-to-image
-
-## Blogs
+# Blogs
   - https://www.bricolage.io/blog/
   - https://www.akitaonrails.com/
   - https://freek.dev/
@@ -19,19 +9,19 @@ Most items on this list are for javascript
   - https://www.cdevn.com/
   - https://www.igvita.com/
 
-## Postmortems
+# Postmortems
   - https://github.com/danluu/post-mortems
   - https://github.com/grimm-co/NotQuite0DayFriday
 
 # Software by operational system
 
-## Mac
-- 
+### Mac
+-
 
-## Windows 
+### Windows
 - https://github.com/microsoft/PowerToys
 
-## Alternative to (most Open source)
+# Alternative to (most Open source)
 
 ###  Sendgrid, Mailgun...
   - https://github.com/postalhq/postal
@@ -45,6 +35,9 @@ Most items on this list are for javascript
 ### Figma
   - https://github.com/ryansolid/solid
   - https://github.com/penpot/penpot
+
+### Zendesk
+  - https://www.chatwoot.com/
 
 ### Slack
   - https://products.office.com/en-US/microsoft-teams/group-chat-software
@@ -84,11 +77,11 @@ Most items on this list are for javascript
   - Taiga
   - Kanboard
   - Cloudinary
- 
+
  ### Sony Vegas
   - https://github.com/mltframework/shotcut
 
-## Thirdies projects:
+# Thirdies projects:
 
 ### Javascript
   - https://github.com/metafizzy
@@ -105,18 +98,12 @@ Most items on this list are for javascript
   - https://github.com/falcon78/Vusic
   - https://github.com/gk4m/vue-spotify
 
-## Thirdies tools
+# Thirdies tools
 
-### Https
-  - https://caddyserver.com/
-  - https://letsencrypt.org/
+## Frontend
 
 ### Styling
   - https://github.com/tachyons-css/tachyons
-
-### Search
-  - https://github.com/farzher/fuzzysort
-  - https://github.com/jameslittle230/stork
 
 ### Alerts
   - https://github.com/sweetalert2/sweetalert2
@@ -124,58 +111,11 @@ Most items on this list are for javascript
   - https://github.com/needim/noty
   - https://github.com/CodeSeven/toastr
 
-### Customer service
-  - https://www.chatwoot.com/
-
-### Trash
-  - https://github.com/sindresorhus/trash
-
-### Clipboard
-  - https://clipboardjs.com
-  - https://github.com/sindresorhus/clipboardy
-
-### Messaging
-  - https://github.com/berty/berty
-
-### Form
-  - https://github.com/ohmyform/ohmyform
-
-### Profane/insensitive/natural language
-  - https://github.com/crowdsecurity/crowdsec
-  - https://github.com/get-alex/alex
-  - http://www.purgomalum.com/
-  - https://github.com/PrithivirajDamodaran/Gramformer
-
-### Manage images
-  - https://github.com/GoogleChromeLabs/squoosh/
-  - https://www.remove.bg/
-  - https://github.com/woltapp/blurhash
-
 ### Screenshot
   - https://html2canvas.hertzen.com/
- 
-### Authz
-  - https://github.com/NangoHQ/nango
-  
-### Auth
-  - https://github.com/goauthentik/authentik
-  - https://github.com/lucia-auth/lucia
 
 ### Zoom
   - https://github.com/kingdido999/zooming
-
-### Music/sound
-  - https://github.com/sonic-pi-net/sonic-pi
-  - https://www.elementary.audio/
-
-### Feature flag
-  - https://github.com/flippercloud/flipper
-  - https://posthog.com/feature-flags
-  - https://launchdarkly.com/
-  - https://github.com/Unleash/unleash
-
-### Debuger
-  - https://github.com/nguyenquangminh0711/ruby_jard (Ruby)
 
 ### Animation css/3d
   - https://zzz.dog/
@@ -189,20 +129,60 @@ Most items on this list are for javascript
   - https://github.com/mojs/mojs
   - https://popmotion.io/
 
-### Audio
-  - https://wavesurfer-js.org/
-  - https://howlerjs.com/
-  
+### Parallax effect
+  - https://simpleparallax.com/
+
+### Onboarding
+  - https://github.com/usablica/intro.js
+  - https://github.com/kamranahmedse/driver.js
+
+### Hover
+  - https://github.com/IanLunn/Hover
+
+### Scroll
+  - https://github.com/janpaepke/ScrollMagic
+  - https://github.com/russellgoldenberg/scrollama
+  - https://github.com/matthieua/WOW
+  - https://github.com/stipsan/scroll-into-view-if-needed
+  - https://github.com/terwanerik/ScrollTrigger
+  - https://github.com/locomotivemtl/locomotive-scroll
+  - https://github.com/jlmakes/scrollreveal
+  - https://github.com/studio-freight/lenis
+
+### Drag-and-drop
+  - https://github.com/valor-software/ng2-dragula
+  - https://interactjs.io/
+  - https://daybrush.com/moveable/
+  - http://sortablejs.github.io/Sortable/
+
+### Powerpoint/presentation
+  - https://github.com/impress/impress.js
+  - https://revealjs.com/#/
+  - https://github.com/pomber/code-surfer
+  - https://github.com/d0c-s4vage/lookatme
+
+### Presentation aux
+  - https://github.com/brunosimon/keppler
+
+### Slides/carrousel/gallery
+  - https://github.com/nolimits4web/swiper
+  - https://naver.github.io/egjs-flicking/
+  - https://github.com/dimsemenov/PhotoSwipe
+
+### Layout full page
+  - https://alvarotrigo.com/fullPage/#page1
+
+### Table
+  - http://tabulator.info/
+  - https://datatables.net/
+  - https://github.com/grid-js/gridjs
+
 ### Panoroma
   - https://github.com/pchen66/panolens.js
 
 ### Loading
   - https://loading.io/
   - https://tobiasahlin.com/spinkit/
-
-### Date/time
-  - https://momentjs.com/
-  - https://github.com/date-fns/date-fns
 
 ### Image lazy loading
   - https://github.com/verlok/lazyload
@@ -212,78 +192,9 @@ Most items on this list are for javascript
   - https://chartkick.com/
   - https://github.com/leeoniya/uPlot
 
-### Generate image code
-  - https://github.com/carbon-app/carbon
-  - https://github.com/octref/polacode
-  - https://github.com/faressoft/terminalizerte
-
-### Editor online
-  - https://github.com/codesandbox/codesandbox-client
-  - https://www.gitpod.io/
-  - https://codesandbox.io/
-
-### Text editor
-  - https://github.com/tinymce/tinymce
-
-### Vote
-  - https://github.com/clickvote/clickvote
-
-### Geoip
-  - https://www.maxmind.com/
-
-### Parallax effect
-  - https://simpleparallax.com/
-
-### Onboarding
-  - https://github.com/usablica/intro.js
-  - https://github.com/kamranahmedse/driver.js
-
-### Table
-  - http://tabulator.info/
-  - https://datatables.net/
-  - https://github.com/grid-js/gridjs
-
-### Firewall
-  - fail2ban
-  - ufw
-
-### Hover
-  - https://github.com/IanLunn/Hover
-
-### Layout full page
-  - https://alvarotrigo.com/fullPage/#page1
-
-### File upload
-  - https://uppy.io/
-  - https://github.com/pqina/filepond
-  - https://www.dropzonejs.com
-  - https://github.com/elninotech/uppload
-
-### Video players
-  - https://github.com/videojs/video.js
-  - https://plyr.io/
-  - https://github.com/muxinc/player-chrome
-  - https://github.com/vime-js/vime
-
 ### Dashboard
   - https://github.com/0wczar/airframe-react
   - https://github.com/tabler/tabler
-
-### Free images
-  - https://www.pexels.com/
-  - https://picsum.photos/
-  - https://unsplash.com/
-  - https://uifaces.co/
-
-### Icon
-  - https://konpa.github.io/devicon/
-  - https://fontkiko.com/
-  - https://css.gg/
-  - https://drive.google.com/open?id=1m0HvmfHen-kMQiAe7Z4GMppIGKs1NSgq
-  - https://iconmonstr.com/
-  - https://coreui.io/
-  - https://github.com/tabler/tabler-icons
-  - https://icons8.com/icons
 
 ### head hide
   - https://github.com/WickyNilliams/headroom.js
@@ -308,6 +219,113 @@ Most items on this list are for javascript
 ### Toogle css
   - https://github.com/JNKKKK/MoreToggles.css
 
+## Backend
+
+### Firewall
+  - fail2ban
+  - ufw
+
+### Authz
+  - https://github.com/NangoHQ/nango
+
+### Auth
+  - https://github.com/goauthentik/authentik
+  - https://github.com/lucia-auth/lucia
+
+### Https
+  - https://caddyserver.com/
+  - https://letsencrypt.org/
+
+### Search
+  - https://github.com/farzher/fuzzysort
+  - https://github.com/jameslittle230/stork
+
+### Docker
+  - https://kitematic.com/
+  - https://github.com/jesseduffield/lazydocker
+  - https://github.com/Gueils/whales
+
+### Databases
+  - https://github.com/rethinkdb/rethinkdb
+  - https://github.com/agershun/alasql
+  - https://github.com/localForage/localForage
+  - http://taffydb.com/
+  - https://pouchdb.com/
+  - https://github.com/arangodb/arangodb
+  - https://github.com/typicode/lowdb
+  - https://github.com/codenotary/immudb
+  - https://github.com/questdb/questdb
+
+### Feature flag
+  - https://github.com/flippercloud/flipper
+  - https://posthog.com/feature-flags
+  - https://launchdarkly.com/
+  - https://github.com/Unleash/unleash
+
+## Midia
+
+### File upload
+  - https://uppy.io/
+  - https://github.com/pqina/filepond
+  - https://www.dropzonejs.com
+  - https://github.com/elninotech/uppload
+
+### Video players
+  - https://github.com/videojs/video.js
+  - https://plyr.io/
+  - https://github.com/muxinc/player-chrome
+  - https://github.com/vime-js/vime
+
+### Manage images
+  - https://github.com/GoogleChromeLabs/squoosh/
+  - https://www.remove.bg/
+  - https://github.com/woltapp/blurhash
+
+### Audio
+  - https://wavesurfer-js.org/
+  - https://howlerjs.com/
+  - https://github.com/sonic-pi-net/sonic-pi
+  - https://www.elementary.audio/
+
+### Generate image code
+  - https://github.com/carbon-app/carbon
+  - https://github.com/octref/polacode
+  - https://github.com/faressoft/terminalizerte
+
+### Icon
+  - https://konpa.github.io/devicon/
+  - https://fontkiko.com/
+  - https://css.gg/
+  - https://drive.google.com/open?id=1m0HvmfHen-kMQiAe7Z4GMppIGKs1NSgq
+  - https://iconmonstr.com/
+  - https://coreui.io/
+  - https://github.com/tabler/tabler-icons
+  - https://icons8.com/icons
+
+### Crop image
+  - https://github.com/jwagner/smartcrop.js
+  - https://github.com/fengyuanchen/cropperjs
+
+## Utils
+
+### Date/time
+  - https://github.com/date-fns/date-fns
+
+### Editor online
+  - https://github.com/codesandbox/codesandbox-client
+  - https://www.gitpod.io/
+  - https://codesandbox.io/
+
+### Form
+  - https://github.com/ohmyform/ohmyform
+
+### Trash
+  - https://github.com/sindresorhus/trash
+
+### Clipboard
+  - https://clipboardjs.com
+  - https://github.com/sindresorhus/clipboardy
+
 ### Autocomplete
   - https://github.com/algolia/autocomplete.js
 
@@ -320,8 +338,7 @@ Most items on this list are for javascript
 
 ### Wiki/doc
   - https://www.getoutline.com/
-  - https://www.docz.site/
-  - https://www.notion.so
+  - https://www.docz.site
   - https://github.com/Redocly/redoc
   - https://github.com/Requarks/wiki
   - https://docusaurus.io/
@@ -335,32 +352,14 @@ Most items on this list are for javascript
   - https://github.com/tj/commander.js
   - https://github.com/github/hotkey
 
-### Scroll
-  - https://github.com/janpaepke/ScrollMagic
-  - https://github.com/russellgoldenberg/scrollama
-  - https://github.com/matthieua/WOW
-  - https://github.com/stipsan/scroll-into-view-if-needed
-  - https://github.com/terwanerik/ScrollTrigger
-  - https://github.com/locomotivemtl/locomotive-scroll
-  - https://github.com/jlmakes/scrollreveal
-  - https://github.com/studio-freight/lenis
+### Messaging
+  - https://github.com/berty/berty
 
-### Drag-and-drop
-  - https://github.com/valor-software/ng2-dragula
-  - https://interactjs.io/
-  - https://daybrush.com/moveable/
-  - http://sortablejs.github.io/Sortable/
-
-### Powerpoint/apresentation
-  - https://github.com/impress/impress.js
-  - https://revealjs.com/#/
-  - https://github.com/pomber/code-surfer
-  - https://github.com/d0c-s4vage/lookatme
-
-### Slides/carrousel/gallery
-  - https://github.com/nolimits4web/swiper
-  - https://naver.github.io/egjs-flicking/
-  - https://github.com/dimsemenov/PhotoSwipe
+### Profane/insensitive/natural language
+  - https://github.com/crowdsecurity/crowdsec
+  - https://github.com/get-alex/alex
+  - http://www.purgomalum.com/
+  - https://github.com/PrithivirajDamodaran/Gramformer
 
 ### Masks
   - https://github.com/autoNumeric/autoNumeric
@@ -377,43 +376,11 @@ Most items on this list are for javascript
 ### Normalize
   - https://github.com/necolas/normalize.css
 
-### Docker
-  - https://kitematic.com/
-  - https://github.com/jesseduffield/lazydocker
-  - https://github.com/Gueils/whales
+### Vote
+  - https://github.com/clickvote/clickvote
 
-### Money
-  - https://github.com/xxczaki/cashify
-
-### Databases
-  - https://github.com/rethinkdb/rethinkdb
-  - https://github.com/agershun/alasql
-  - https://github.com/localForage/localForage
-  - http://taffydb.com/
-  - https://pouchdb.com/
-  - https://github.com/arangodb/arangodb
-  - https://github.com/typicode/lowdb
-  - https://github.com/codenotary/immudb
-  - https://github.com/questdb/questdb
-
-### Notes
-  - https://github.com/Zettlr/Zettlr
-  - https://github.com/BoostIO/Boostnote
-  - https://github.com/zadam/trilium
-  - https://github.com/notable/notable
-
-### Bagdet
-  - https://shields.io/
-  - https://github.com/dennis47528/console-badge
-
-### Zipcode (CEP)
-  - https://github.com/otaviopace/cep-callback
-  - https://github.com/filipedeschamps/cep-promise
-  - https://github.com/filipedeschamps/BrasilAPI
-
-### Crop image
-  - https://github.com/jwagner/smartcrop.js
-  - https://github.com/fengyuanchen/cropperjs
+### Geoip
+  - https://www.maxmind.com/
 
 ### Mentions
   - https://github.com/zurb/tribute
@@ -432,17 +399,36 @@ Most items on this list are for javascript
 
 ### Diffs
   - https://github.com/google/diff-match-patch
-  - https://github.com/isaacs/diff-frag
-  - https://github.com/taylorhakes/variable-diff
   - https://github.com/jlevy/pdiffjson
-  - https://github.com/trailofbits/graphtage
+  - https://github.com/dandavison/delta
   - https://github.com/Wilfred/difftastic
 
-### Interesting sites
+### Money
+  - https://github.com/xxczaki/cashify
+
+### Notes
+  - https://github.com/Zettlr/Zettlr
+  - https://github.com/BoostIO/Boostnote
+  - https://github.com/zadam/trilium
+  - https://github.com/notable/notable
+
+### Badget
+  - https://shields.io/
+  - https://github.com/dennis47528/console-badge
+
+### Zipcode (CEP)
+  - https://github.com/otaviopace/cep-callback
+  - https://github.com/filipedeschamps/cep-promise
+  - https://github.com/filipedeschamps/BrasilAPI
+
+## Interesting sites
   - http://bruno-simon.com/
   - https://free-for.dev/#/
   - https://userinyerface.com/
   - https://illustrated.dev/
 
-### Apresentation aux
-  - https://github.com/brunosimon/keppler
+## Free images
+  - https://www.pexels.com/
+  - https://picsum.photos/
+  - https://unsplash.com/
+  - https://uifaces.co/
