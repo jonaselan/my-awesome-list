@@ -159,6 +159,7 @@ Most items on this list are for javascript
   
 ### Auth
   - https://github.com/goauthentik/authentik
+  - https://github.com/lucia-auth/lucia
 
 ### Zoom
   - https://github.com/kingdido999/zooming
