@@ -331,6 +331,7 @@
 
 ### Autocomplete
   - https://github.com/algolia/autocomplete.js
+  - https://github.com/cloudcannon/pagefind
 
 ### Search Engine
   - https://github.com/elastic/elasticsearch
