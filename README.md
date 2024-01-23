@@ -72,6 +72,9 @@
   - https://github.com/mikecao/umami
   - https://github.com/plausible/analytics
 
+### Google Maps
+- https://www.openstreetmap.org
+
 ### Amazon S3
   - MinIO
   - Taiga
