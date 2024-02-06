@@ -219,11 +219,13 @@
   - https://gohugo.io/
   - https://github.com/jekyll/jekyll
 
-### Toogle css
+### Toggle css
   - https://github.com/JNKKKK/MoreToggles.css
 
 ## Backend
 
+### Healthcheck
+  - https://github.com/healthchecks/healthchecks
 ### Firewall
   - fail2ban
   - ufw
